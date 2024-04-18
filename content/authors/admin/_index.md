@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Chenyu Fang/方晨宇
+title: Chenyu Fang
 
 # Full name (for SEO)
 first_name: Chenyu
