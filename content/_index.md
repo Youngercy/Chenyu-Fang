@@ -54,7 +54,7 @@ sections:
   #修改这个部分 来修改经验的部分
   - block: experience
     content:
-      title: Experience
+      title: Working & Visiting Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -80,11 +80,11 @@ sections:
         - title: Visiting Scholar at University of Cambridge
           company: University of Cambridge
           company_url: ''
-          company_logo: org-x
+          company_logo: Cambridge
           location: Cambridge
           date_start: '2023-05-15'
           date_end: '2023-11-15'
-          description: Join the Lab of Interdisciplinary Spatial Analysis and get supervision from Prof Elisabete A Silva.
+          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof Elisabete A Silva.
     design:
       columns: '2'
   - block: accomplishments
