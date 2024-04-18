@@ -87,6 +87,8 @@ sections:
           description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof Elisabete A Silva.
     design:
       columns: '2'
+
+      
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
