@@ -67,7 +67,7 @@ sections:
         - title: Data Analyst & Urban Planner
           company: China Academic Urban Planning & Design
           company_url: 'https://www.caupd.com/en/index'
-          company_logo: org-gc
+          company_logo: caupd.png
           location: Shenzhen
           date_start: '2018-07-01'
           date_end: '2021-01-01'
