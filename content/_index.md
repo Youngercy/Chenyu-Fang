@@ -212,6 +212,7 @@ sections:
   - block: collection
     content:
       title: Papers (to be) Submitted
+      count: 5
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
