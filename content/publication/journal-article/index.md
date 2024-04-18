@@ -22,10 +22,10 @@ publication_types: ["article-journal"]
 publication: "Computers, Environment, Urban and System"
 publication_short: "CEUS"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Overlapping structures, often overlooked, are crucial in shaping comprehensive urban development and broader megaregional strategies. To address the gap, this study conducts the overlapping communities analysis in the Pearl River Delta (PRD), a megaregion in South China, using big geospatial data from 2018. A novel Overlapping Community Detection based on Density Peaks (OCDDP) is employed to generate multiple communities with diverse functions for different nodes in the commuting network of 60 sub-city divisions. We identify eight overlapping communities in PRD characterized by two categories of communities predominantly centered around Shenzhen and Guangzhou, revealing a bicentric spatial structure. Notably, central sub-cities are characterized by a low-overlap attribute, while peripheral sub-cities manifest a high-overlap tendency. Furthermore, the study investigates the driving forces behind these communities through ridge regression to analyze the impacts of various spatial flows, including policies, investment amount and times, branch funding and number, travel cost, and travel distance, co-patenting, and search index. This part found that four Shenzhen-centric communities are primarily driven by travel cost, co-patenting, branch funding, and number, while the four Guangzhou-centric communities are influenced by co-patenting, investment amount, and times. This study emphasizes differentiated functional linkages and the need for precise policy positioning and resource allocation, paving the way for a coordinated and holistic approach to megaregional development.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
 
 tags:
 - Source Themes
@@ -34,8 +34,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: ''
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
