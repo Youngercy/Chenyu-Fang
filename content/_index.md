@@ -50,6 +50,8 @@ sections:
       username: admin
     design:
       columns: '1'
+
+  #修改这个部分 来修改经验的部分
   - block: experience
     content:
       title: Experience
@@ -62,13 +64,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Data Analyst & Urban Planner
+          company: China Academic Urban Planning & Design
+          company_url: 'https://www.caupd.com/en/index'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Shenzhen
+          date_start: '2018-07'
+          date_end: '2021-01'
           description: |2-
               Responsibilities include:
 
