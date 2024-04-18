@@ -2,9 +2,6 @@
 # Display name
 title: Chenyu Fang/方晨宇
 
-# Name pronunciation (optional)
-name_pronunciation: Chenyu Fang
-
 # Full name (for SEO)
 first_name: Chenyu
 last_name: Fang
@@ -15,7 +12,7 @@ superuser: true
 highlight_name: true
 
 # 改成研究兴趣
-role: Computational Science| GeoAI | Computational Social Science | Urban Informatics| LLM| Social Sensing
+role: Ph.D from Chair of Geosptial Data Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
