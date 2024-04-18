@@ -69,22 +69,22 @@ sections:
           company_url: 'https://www.caupd.com/en/index'
           company_logo: org-gc
           location: Shenzhen
-          date_start: '2018-07'
-          date_end: '2021-01'
+          date_start: '2018-07-01'
+          date_end: '2021-01-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Digital Bay Area Platform Construction
+              * Guangdong Province's Inaugural Territorial Space Planning
+              * 
+        - title: Visiting Scholar at University of Cambridge
+          company: University of Cambridge
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Cambridge
+          date_start: '2023-05-15'
+          date_end: '2023-11-15'
+          description: Join the Lab of Interdisciplinary Spatial Analysis and get supervision from Prof Elisabete A Silva.
     design:
       columns: '2'
   - block: accomplishments
