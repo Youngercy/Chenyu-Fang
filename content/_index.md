@@ -84,11 +84,11 @@ sections:
           location: Cambridge
           date_start: '2023-05-15'
           date_end: '2023-11-15'
-          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof Elisabete A Silva.
+          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof. Elisabete A Silva.
     design:
       columns: '2'
 
-      
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -158,6 +158,8 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
+
   - block: portfolio
     id: projects
     content:
@@ -175,7 +177,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
+        - name: Urban Structure
           tag: Deep Learning
         - name: Other
           tag: Demo
@@ -193,6 +195,8 @@ sections:
         {{< gallery album="demo" >}}
     design:
       columns: '1'
+
+
   - block: collection
     id: featured
     content:
@@ -204,9 +208,10 @@ sections:
     design:
       columns: '2'
       view: card
+
   - block: collection
     content:
-      title: Recent Publications
+      title: Papers (to be) Submitted
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).

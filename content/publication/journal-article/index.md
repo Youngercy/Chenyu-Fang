@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "Exploratory Analysis of Overlapping Communities and Its Impact Factors for Megaregion Cities in South China with Geospatial Big Data. (Under Second-Round Review: Computers, Environment, Urban and System)"
 authors:
-- admin
-- Robert Ford
+- Fang, C.
+- Gu., X.
+- Zhou, L.
+- Liu, X.
+- Werner, M.
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
