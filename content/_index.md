@@ -212,7 +212,10 @@ sections:
     content:
       count:7
       title: Peer Review Papers 
-      
+    design:
+      columns: '2'
+      view: citation
+
   - block: collection
     content:
       count: 8
