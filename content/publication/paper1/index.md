@@ -1,13 +1,13 @@
 ---
 title: "Exploratory Analysis of Overlapping Communities and Its Impact Factors for Megaregion Cities in South China with Geospatial Big Data. "
 authors:
-- ** Fang, C. **
+-**Fang, C.** 
 - Gu, X.
 - Zhou, L.*.
 - Liu, X.
 - Werner, M.
 
-date: "2015-09-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
