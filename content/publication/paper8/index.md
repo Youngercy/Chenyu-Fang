@@ -1,16 +1,14 @@
 ---
-title: 'Comparing Variant Megaregional Complex Networks in the China Great Bay Area- A Multi-Scale Analysis Based on Mobile Phone Signaling Data'
+title: 'Measuring Accessibility and Equity of Residential Parks and Green Spaces Under Residential Spatial Segregation Based on TB-i2SFCA and SHAP.'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Fang, C.
-  - Chen, R.
-  - Zhou, L.*
-  - Liu, X.
-  - Werner, M.
-  
+- Fang, C.*
+- Zhou, L.
+- Liu, S.
+- Silva, E.
 
 # Author notes (optional)
 #author_notes:
@@ -30,7 +28,7 @@ authors:
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Reject & Resubmit to *Cities* **(Under Revision)**"
+publication: "Plan to Submit to *Landscape and Urban Planning* **(Under writing)**"
 publication_short: ""
 
 #abstract: 
