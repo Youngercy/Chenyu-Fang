@@ -213,18 +213,6 @@ sections:
     content:
       title: Papers (to be) Submitted
       count: 5
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-          # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
     design:
       columns: '2'
       view: citation
