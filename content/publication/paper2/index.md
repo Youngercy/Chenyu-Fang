@@ -4,7 +4,7 @@ authors:
 - Zhang, W.
 - Geng, Y.
 - Zhou, L.
--**Fang, C**.
+- __Fang, C.__
 
 date: ""
 doi: ""
