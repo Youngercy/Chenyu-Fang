@@ -212,6 +212,9 @@ sections:
   - block: collection
     content:
       title: Papers (to be) Submitted
+      filters:
+        folders:
+          - publication
       count: 5
     design:
       columns: '2'
