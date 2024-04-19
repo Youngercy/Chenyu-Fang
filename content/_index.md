@@ -212,7 +212,6 @@ sections:
   #添加了一个新的内容
   - block: collection
     content:
-      count:7
       title: Peer Review Papers 
     design:
       columns: '2'
