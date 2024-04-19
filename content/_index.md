@@ -210,6 +210,11 @@ sections:
       view: card
   - block: collection
     content:
+      count:7
+      title: Peer Review Papers 
+      
+  - block: collection
+    content:
       count: 8
       title: Papers (to be) Submitted
       #text: |-
