@@ -1,12 +1,14 @@
 ---
-title: 'An example conference paper'
+title: 'The Role of Voluntary Collective Action in China’s Rural Land Development'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Zhou, L.
+  - de Vries W. T.
+  - Gao, F.
+  - Fang, C.*
 
 # Author notes (optional)
 #author_notes:
@@ -17,7 +19,7 @@ authors:
 #doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+#publishDate: '2017-01-01T00:00:00Z'
 
 
 # Publication type.
@@ -26,7 +28,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submission to *Computers, Environment, Urban and System* **(Under Second-Round Review)**"
+publication: "Submission to *Habitat International* **(Under Second-Round Review)**"
 publication_short: ""
 
 #abstract: 
