@@ -216,6 +216,11 @@ sections:
         folders:
           - publication
       count: 5
+      title: Peer Reviewed Articles
+      filters:
+        folders:
+          - publication
+      count: 5
     design:
       columns: '2'
       view: citation
