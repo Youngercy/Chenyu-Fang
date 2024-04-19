@@ -210,6 +210,7 @@ sections:
       view: card
   - block: collection
     content:
+      count: 8
       title: Papers (to be) Submitted
       #text: |-
         #{{% callout note %}}
