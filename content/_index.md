@@ -208,6 +208,8 @@ sections:
     design:
       columns: '2'
       view: card
+
+  #添加了一个新的内容
   - block: collection
     content:
       count:7
