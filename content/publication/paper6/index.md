@@ -3,11 +3,13 @@ title: "Valuing the carbon neutrality potential of the city itself: a study of g
 authors:
 - Feng, Y.
 - Fang, C.
-Jia, X., Song, P., Zhou, L., Ge, S.*
+- Jia, X.
+- Song, P.
+- Zhou, L.
+- Ge, S.*
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution
+- "Equal contribution from Feng, Y. & Fang, C."
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
