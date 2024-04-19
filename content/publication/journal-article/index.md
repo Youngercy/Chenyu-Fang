@@ -7,7 +7,7 @@ authors:
 - Liu, X.
 - Werner, M.
 
-date: "2015-09-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -62,7 +62,6 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 
-title: "Exploratory Analysis of Overlapping Communities and Its Impact Factors for Megaregion Cities in South China with Geospatial Big Data. (Under Second-Round Review)"
 ---
