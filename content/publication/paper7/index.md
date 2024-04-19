@@ -1,43 +1,50 @@
 ---
-title: "Valuing the carbon neutrality potential of the city itself: a study of greenspace at a city-block-scale in Xi’an, China."
-authors:
-- Feng, Y.
-- Fang, C.
-- Jia, X.
-- Song, P.
-- Zhou, L.
-- Ge, S.*
+title: 'Comparing Variant Megaregional Complex Networks in the China Great Bay Area- A Multi-Scale Analysis Based on Mobile Phone Signaling Data'
 
-author_notes:
-- "Equal contribution from Feng, Y. & Fang, C."
-- "Equal contribution from Feng, Y. & Fang, C."
-date: "2024-04-07T00:00:00Z"
-doi: ""
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - Fang, C.
+  - Chen, R.
+  - Zhou, L.*
+  
+
+# Author notes (optional)
+#author_notes:
+# - 'Equal contribution'
+# - 'Equal contribution'
+
+#date: '2013-07-01T00:00:00Z'
+#doi: ''
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+#publishDate: '2017-01-01T00:00:00Z'
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submission to *Environmental Research* **(Under Review)**"
+publication: "Submission to *Habitat International* **(Under Second-Round Review)**"
 publication_short: ""
 
-abstract: 
-
+#abstract: 
 # Summary. An optional shortened abstract.
-summary: 
+#summary:
 
-tags:
-- Source Themes
+tags: []
+
+# Display this page in the Featured widget?
 featured: false
 
-#links:
-#- name: Custom Link
-#  url: http://example.org
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -48,10 +55,10 @@ url_source: ''
 url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -60,13 +67,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-#  slides: example
+#slides: example
 ---
 
