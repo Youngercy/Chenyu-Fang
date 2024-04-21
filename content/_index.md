@@ -213,6 +213,10 @@ sections:
   - block: collection
     content:
       title: Peer Review Papers 
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
