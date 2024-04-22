@@ -200,15 +200,15 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Peer Reviewed Papers
       filters:
         folders:
           - publication
         featured_only: true
     design:
       columns: '2'
-      view: citation
-      
+      view: compact
+
   - block: collection
     content:
       count: 8
