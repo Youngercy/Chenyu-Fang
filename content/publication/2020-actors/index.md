@@ -12,4 +12,6 @@ publishDate: '2024-04-19T15:10:37.919644Z'
 publication_types:
 - article-journal
 publication: '*Land Use Policy*'
+#tags:
+featured: true
 ---
