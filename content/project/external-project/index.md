@@ -1,6 +1,6 @@
 ---
-title: [PlanGPT](https://arxiv.org/abs/2402.19273) (Co-Founder)
-summary: a professional large language model(LLM) custom-built for urban planning 
+title: PlanGPT(Co-Founder)
+summary: a professional large language model(LLM) custom-built for urban planning.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
