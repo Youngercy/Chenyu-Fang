@@ -7,7 +7,7 @@ title: 'Comparing Variant Megaregional Complex Networks in the China Great Bay A
 authors:
   -**Fang, C.**
   - Chen, R.
-  - Zhou, L.*
+  - Zhou, L.
   
 
 # Author notes (optional)
