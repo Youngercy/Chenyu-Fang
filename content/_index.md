@@ -210,6 +210,7 @@ sections:
       view: compact
 
   - block: collection
+    id: workingpaper
     content:
       count: 8
       title: Papers (to be) Submitted
