@@ -247,6 +247,7 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
+
   - block: contact
     id: contact
     content:
@@ -263,8 +264,8 @@ sections:
 
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '48.0546863'
-        longitude: '11.6507508'  
+        latitude: '48.054656'
+        longitude: '11.6532691'  
  
       # Automatically link email and phone or display as text?
       #autolink: true
