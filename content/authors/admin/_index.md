@@ -26,7 +26,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Computational Science
   - GeoAI
-  - Computational Social Science
   - Urban Informatics
   - LLM
   - Social Sensing
@@ -117,5 +116,8 @@ social:
 highlight_name: true
 ---
 
-这里进行简单的自我介绍, 需要将自我介绍的内容放到其中
+I am currently a PhD candidate at the Technical University of Munich, specializing in Big Geospatial Data Management under the supervision of Prof. Martin Werner. In 2023, I had the opportunity to be a Visiting Scholar at the University of Cambridge, where I worked at the Lab of Interdisciplinary Spatial Analysis under the guidance of Prof. Elisabete A. Silva. I hold a Master's degree from Peking University and a BSc in Remote Sensing & Photogrammetry from Wuhan University, obtained in 2015.  Prior to my doctoral studies, I spent two years at the China Academic Urban Planning & Design Institute, focusing on urban planning and spatial analysis.
+
+My research interests are deeply rooted in computational science, geoAI, urban informatics, social sensing, and large language models (LLMs). My aim is to apply cutting-edge artificial intelligence and big data technologies to fields including social sciences, urban studies, and natural ecology. Through my work, I seek to uncover the dynamic interactions between people, nature, and society in the modern era.
+
 {style="text-align: justify;"}
