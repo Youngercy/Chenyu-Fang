@@ -30,10 +30,16 @@ url_video: ''
 # slides: example
 ---
 
-Digital Bay Area Platform for the China Academy of Urban Planning and Design, focusing on the digital planning and visualization of the Greater Bay Area. This platform offers real-time, dynamic planning support to urban planners:
+A professional language model custom-built for urban planning, aiming to:
 
-- Comprehensive Integration: The digital Bay Area we constructed includes vital aspects such as population, business, culture, and economy, offering a holistic view of the area's dynamics.
+- **Analyzing Human Behaviors**: Utilized mobile phone signaling data to study the spatial behavior of the
 
-- Dynamic Planning Support: work for more than 400 planners; more than 30 commercial projects. 
+urban population, their commuting patterns, and connections within the city.
 
-- Report by several major news: NetEase, Souhu, Zhihu, Planning Cloud and so on.
+- **Boost Efficiency for Planners**: Designed to enhance the work efficiency of urban planning professionals
+
+by addressing their unique challenges.
+
+- **Leverage Industry Collaboration**: Developed in collaboration with leading institutions like the Chinese
+
+Urban Planning Research Institute, integrating industry-specific insights and technologies.
