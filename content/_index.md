@@ -202,6 +202,7 @@ sections:
     id: featured
     content:
       title: Peer Reviewed Papers
+      text: topic1
       filters:
         folders:
           - publication
