@@ -255,23 +255,19 @@ sections:
       email: chenyu.fang@tum.de
       phone: +49 17644543864
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        street: Lise-Meitner-Straße 9, 85521 
+        city: Ottobrunn
+        region: Bayren
+        postcode: '85521'
+        country: Germany
+
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
         latitude: '48.0546863'
         longitude: '11.6507508'  
  
       # Automatically link email and phone or display as text?
-      autolink: true
+      #autolink: true
       # Email form provider
       form:
         provider: netlify
