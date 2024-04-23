@@ -1,6 +1,6 @@
 ---
-title: PlanGPT (Co-Founder)
-summary: a professional large language model(LLM) custom-built for urban planning https://arxiv.org/abs/2402.19273), aiming to
+title: [PlanGPT](https://arxiv.org/abs/2402.19273) (Co-Founder)
+summary: a professional large language model(LLM) custom-built for urban planning , aiming to
 1. **Specialize in Urban Planning Tasks.** Tailored for generating planning texts, information retrieval, and
 document evaluation specific to city planning.
 2. **Boost Efficiency for Planners.**  Designed to enhance the work efficiency of urban planning professionals
