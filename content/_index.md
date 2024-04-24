@@ -135,9 +135,9 @@ sections:
     content:
       title: Popular Topics
       text: |-
-        **Topic 1**: Network-based Megaregion Research and Regional Planning 
-        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development 
-        **Topic 3**: Theoretical Contributions and Literature Analysis in Land Science  
+        **Topic 1**: Network-based Megaregion Research and Regional Planning   
+        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development    
+        **Topic 3**:  Technological and Methodological Advances in Geospatial Analysis      
           
     design:
       columns: '2'

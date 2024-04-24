@@ -1,10 +1,10 @@
 ---
 title: "Associations between online and offline shopping and travel behaviors before and after the outbreak of COVID-19."
-authors:
-- Zhang, W.
-- Geng, Y.
-- Zhou, L.
-- Fang, C.
+authors: |-
+  Zhang, W.
+  Geng, Y.
+  Zhou, L.
+  __Fang, C.*__
 
 #date: ""
 #doi: ""
