@@ -1,6 +1,4 @@
 ---
-text: |-
-        **Individual Behavior, Built Environment, and Sustainable Development**
 title: Guangdong Province's Inaugural Territorial Space Planning (Participant)
 summary: A professional language model custom-built for urban planning.
 tags:
