@@ -131,6 +131,16 @@ sections:
   #   design:
   #     columns: '2'
 
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+      text: |-
+        **Topic 1**: Network-based Megaregion Research and Regional Planning 
+        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development 
+        **Topic 3**: Theoretical Contributions and Literature Analysis in Land Science  
+          
+    design:
+      columns: '2'
 
   - block: collection
     id: posts
@@ -284,18 +294,7 @@ sections:
 
 
 
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-      text: |-
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
-          
-    design:
-      columns: '2'
+
 
   - block: contact
     id: contact
