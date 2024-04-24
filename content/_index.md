@@ -54,11 +54,13 @@ sections:
   - block: tag_cloud
     id: topic
     content:
-      title: Popular Topics
+      title: Research 
       text: |-
-        **Topic 1**: Network-based Megaregion Research and Regional Planning   
-        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development    
-        **Topic 3**:  Technological and Methodological Advances in Geospatial Analysis      
+        Following, you could find information about my current three topic of my research. 
+        **Topic 1**: Network-based Megaregion Research and Regional Planning.
+        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development.   
+        **Topic 3**:  Technological and Methodological Advances in Geospatial Analysis.  
+        Please click on the **icons** below to learn more.    
           
     design:
       columns: '2'
