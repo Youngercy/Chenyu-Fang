@@ -13,10 +13,12 @@ summary: |-
 
   - Webometrics and Big Data Analysis: used to explore inter-city/village relationships and measure city/village impacts within megaregions, providing a foundation for targeted rural revitalization and integration strategies.
 
+  **Seleted Papers As Following:**
+
 tags:
   - Topic1
 
-date: '2024-04-04'
+date: '2024-04-22'
 
 ---
 **Research Question:**
