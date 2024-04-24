@@ -1,17 +1,10 @@
-text: |-
-  **Individual Behavior, Built Environment, and Sustainable Development**.
 
 ---
-title: PlanGPT(Co-Founder)
-summary: a professional large language model(LLM) custom-built for urban planning.
+title: Topic1 
+summary: Theoretical Contributions and Literature Analysis in Land Science
 tags:
   - Demo
-date: "2016-04-27T00:00:00Z"
+view: 2
+columns: "1"
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
-
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
 ---
