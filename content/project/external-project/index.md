@@ -1,3 +1,6 @@
+text: |-
+  **Individual Behavior, Built Environment, and Sustainable Development**.
+
 ---
 title: PlanGPT(Co-Founder)
 summary: a professional large language model(LLM) custom-built for urban planning.
