@@ -291,11 +291,11 @@ sections:
         {{% callout note %}}
         Quickly discover relevant content by choosing the topic below.
         {{% /callout %}}
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science
-        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science
+        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
+        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
+        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
+        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
+        **Topic 5**: Theoretical Contributions and Literature Analysis in Land Science  
           
     design:
       columns: '2'
