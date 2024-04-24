@@ -16,6 +16,8 @@ summary: |-
 tags:
   - Topic1
 
+date: '2024-11-04'
+
 ---
 **Research Question:**
 This research explores the overarching question, "How are megaregions developed, evolved, and governed through planning?" It delves into the structural and interactive complexities within megaregions, particularly focusing on how these large-scale urban or rural areas can be mapped and managed using advanced network and data analysis techniques. 
