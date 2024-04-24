@@ -1,5 +1,9 @@
 ---
 title: Digital Bay Area Platform Construction (Participant)
+text: |-
+    **Individual Behavior, Built Environment, and Sustainable Development**
+    - Research Question:
+    This research investigates how individual behaviors interact with the built environment to influence sustainable development. The key questions addressed are: How do various elements of the built environment, such as multimodal transport systems and urban land use, impact individual daily activities? Additionally, how can urban planning and design enhance sustainability by influencing these behaviors?
 summary: Digital Bay Area Platform for the China Academy of Urban Planning and Design, focusing on the digital planning and visualization of the Greater Bay Area. This platform offers real-time, dynamic planning support to urban planners.
 tags:
   - Deep Learning
