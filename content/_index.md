@@ -194,6 +194,8 @@ sections:
     id: research
     content:
       title: Research
+      text: |-
+        **Individual Behavior, Built Environment, and Sustainable Development**
       filters:
         folders:
           - project
