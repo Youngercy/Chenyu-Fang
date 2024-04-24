@@ -190,7 +190,7 @@ sections:
       flip_alt_rows: false
 
   # 添加一个新的场景
-    - block: portfolio
+  - block: portfolio
     id: research
     content:
       title: Research
