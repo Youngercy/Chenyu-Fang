@@ -52,6 +52,7 @@ sections:
       columns: '1'
 
   - block: tag_cloud
+    id:topic
     content:
       title: Popular Topics
       text: |-
