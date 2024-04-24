@@ -194,8 +194,6 @@ sections:
     id: research
     content:
       title: Research
-      text: |-
-        **Individual Behavior, Built Environment, and Sustainable Development**
       filters:
         folders:
           - project
@@ -211,6 +209,8 @@ sections:
           tag: '*'
         - name: Topic 1
           tag: Deep Learning
+          text: |-
+            **Individual Behavior, Built Environment, and Sustainable Development**
         - name: Topic2
           tag: Demo
         - name: Topic 3
