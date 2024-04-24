@@ -287,6 +287,10 @@ sections:
   - block: tag_cloud
     content:
       title: Popular Topics
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by choosing the topic below.
+        {{% /callout %}}
     design:
       columns: '2'
 
