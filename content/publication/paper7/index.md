@@ -9,8 +9,7 @@ authors:
   - Chen, R.
   - Zhou, L.
   
-tags:
-  - Topic1
+
 # Author notes (optional)
 #author_notes:
 # - 'Equal contribution'
@@ -36,7 +35,8 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 #summary:
 
-tags: []
+tags:
+  - Topic1
 
 # Display this page in the Featured widget?
 featured: false
