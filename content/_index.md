@@ -112,7 +112,7 @@ sections:
           company: Wuhan University
           company_url: ''
           company_logo: Wuhan
-          location: wuhan
+          location: Wuhan
           date_start: '2011-09-15'
           date_end: '2015-07-15'
           description: 
