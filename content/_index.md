@@ -131,7 +131,7 @@ sections:
 
               * Digital Bay Area Platform Construction
               * Guangdong Province's Inaugural Territorial Space Planning
-              * 
+              * Data Analysis
         
     design:
       columns: '2'
