@@ -7,6 +7,7 @@ featured: true
 
 tags:
   - Topic1
+  - Topic3
 authors:
 - Wenjia Zhang
 - Chenyu Fang
