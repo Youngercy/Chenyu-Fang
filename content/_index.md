@@ -69,7 +69,7 @@ sections:
   #修改这个部分 来修改经验的部分
   - block: experience
     content:
-      title: Working & Visiting Experience
+      title: Education & Working Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -79,6 +79,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: PhD in Chair of Big Geospatial Data Management
+          company: Technical University of Munich
+          company_url: ''
+          company_logo: Cambridge
+          location: Munich
+          date_start: '2021-03-15'
+          date_end: '2024-09-15'
+          description: Under supervision from Prof. Martin Werner.
+
+        - title: Visiting Scholar at University of Cambridge
+          company: University of Cambridge
+          company_url: ''
+          company_logo: Cambridge
+          location: Cambridge
+          date_start: '2023-05-15'
+          date_end: '2023-11-15'
+          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof. Elisabete A Silva.
+
+
+
+        - title: Master in Natural Geography (Research in Urban Analysis)
+          company: Peking University
+          company_url: ''
+          company_logo: Cambridge
+          location: Beijing
+          date_start: '2015-09-15'
+          date_end: '2018-07-15'
+          description: Under supervision from Prof. Shuqing Zhao.
+
+        - title: BSc in Remote Sensing & Photogrammetry
+          company: Wuhan University
+          company_url: ''
+          company_logo: Cambridge
+          location: wuhan
+          date_start: '2011-09-15'
+          date_end: '2015-07-15'
+          description: 
+         
+
+
         - title: Data Analyst & Urban Planner
           company: China Academic Urban Planning & Design
           company_url: 'https://www.caupd.com/en/index'
@@ -92,14 +132,7 @@ sections:
               * Digital Bay Area Platform Construction
               * Guangdong Province's Inaugural Territorial Space Planning
               * 
-        - title: Visiting Scholar at University of Cambridge
-          company: University of Cambridge
-          company_url: ''
-          company_logo: Cambridge
-          location: Cambridge
-          date_start: '2023-05-15'
-          date_end: '2023-11-15'
-          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof. Elisabete A Silva.
+        
     design:
       columns: '2'
 

@@ -9,7 +9,6 @@ authors:
 - Lin Zhou
 - Martin Werner
 tags:
-  - Topic1
   - Topic2
 
 date: '2024-01-01'
