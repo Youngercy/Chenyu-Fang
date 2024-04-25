@@ -18,11 +18,11 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://www.163.com/dy/article/IHOTN6GT05346KFL.html
+# links:
+#   - icon: twitter
+#     icon_pack: fab
+#     name: Follow
+#     url: https://www.163.com/dy/article/IHOTN6GT05346KFL.html
 url_code: ''
 url_pdf: ''
 url_slides: ''
