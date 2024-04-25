@@ -1,5 +1,5 @@
 ---
-title: [PlanGPT](https://arxiv.org/abs/2402.19273) (Co-Founder)
+title: PlanGPT(Co-Founder)
 
 summary: |-
   a professional large language model(LLM) custom-built for urban planning https://arxiv.org/abs/2402.19273), aiming to
