@@ -21,7 +21,7 @@ summary: |-
 
  
 
-  <font size = 30> <strong> Seleted Papers As Following: </strong> </font>
+  <font size = 30> Seleted Papers As Following: </font>
 
 tags:
   - Topic2
