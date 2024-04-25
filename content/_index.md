@@ -245,7 +245,7 @@ sections:
     id: workingpaper
     content:
       count: 8
-      title: Papers (to be) Submitted
+      title: Papers Submitted
       #text: |-
         #{{% callout note %}}
         #Quickly discover relevant content by [filtering publications](./publication/).
