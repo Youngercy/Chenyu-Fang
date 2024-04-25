@@ -1,7 +1,7 @@
 ---
 title: Guangdong Province's Inaugural Territorial Space Planning
 summary: |-
-  It is a key initiative aimed at optimizing land use, protecting natural resources, and fostering sustainable development through strategic regional planning and advanced spatial analysis technologies My main responsibilities included two critical components:  
+  It is a key initiative aimed at optimizing land use, protecting natural resources, and fostering sustainable development through strategic regional planning and advanced spatial analysis technologies. My main responsibilities included two critical components:  
   **One Map** Developing a comprehensive 'One Map' system for land and space management, which integrates various geographic and administrative data into a single, accessible mapping platform.   
   **Spatial Analysis** Providing technical support for spatial analysis, utilizing advanced analytical methods and technologies to assess and optimize the use of territorial space across the province.     
 # tags:
