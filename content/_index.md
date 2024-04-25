@@ -86,7 +86,7 @@ sections:
           location: Munich
           date_start: '2021-03-15'
           date_end: '2024-09-15'
-          description: Under supervision from Prof. Martin Werner.
+          description: Under supervision from [Prof. Martin Werner](https://www.professoren.tum.de/werner-martin).
 
         - title: Visiting Scholar at University of Cambridge
           company: University of Cambridge
@@ -95,7 +95,7 @@ sections:
           location: Cambridge
           date_start: '2023-05-15'
           date_end: '2023-11-15'
-          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from Prof. Elisabete A Silva.
+          description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from [Prof. Elisabete A Silva](https://www.landecon.cam.ac.uk/directory/esilva).
 
 
 
@@ -106,7 +106,7 @@ sections:
           location: Beijing
           date_start: '2015-09-15'
           date_end: '2018-07-15'
-          description: Under supervision from Prof. Shuqing Zhao.
+          description: Under supervision from [Prof. Shuqing Zhao](https://chunxxu.github.io/zhaolab/index.html).
 
         - title: BSc in Remote Sensing & Photogrammetry
           company: Wuhan University
