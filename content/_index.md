@@ -265,7 +265,7 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
+      columns: '1'
       view: compact
 
   - block: collection
@@ -283,7 +283,7 @@ sections:
         exclude_featured: true
       order: desc
     design:
-      columns: '2'
+      columns: '1'
       view: citation
 
 
