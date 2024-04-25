@@ -1,5 +1,5 @@
 ---
-title: 'Comparing Variant Megaregional Complex Networks in the China Great Bay Area- A Multi-Scale Analysis Based on Mobile Phone Signaling Data. (Rejected & Resubmited)'
+title: 'Data-Driven Cities – A Combination of Clustering and Feature-Engineering on Top of Open Street Map point data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
