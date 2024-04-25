@@ -19,6 +19,7 @@ publication: '*Sustainable Cities and Society*'
 doi: https://doi.org/10.1016/j.scs.2023.105096
 #tags:
 featured: true
+doi: https://doi.org/10.1016/j.scs.2023.105096
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S2210670723007060

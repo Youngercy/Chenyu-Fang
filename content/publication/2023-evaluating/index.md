@@ -14,4 +14,9 @@ publication_types:
 publication: '*Land*'
 #tags:
 featured: true
+doi: https://doi.org/10.3390/land12071401
+links:
+- name: URL
+  url: https://www.mdpi.com/2073-445X/12/7/1401
+
 ---

@@ -14,4 +14,8 @@ publication_types:
 publication: '*Land Use Policy*'
 #tags:
 featured: true
+doi: https://doi.org/10.1016/j.landusepol.2020.104990
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0264837719302704
 ---

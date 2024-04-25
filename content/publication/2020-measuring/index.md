@@ -19,4 +19,9 @@ publication_types:
 publication: '*Cities*'
 #tags:
 featured: true
+doi: https://doi.org/10.1016/j.cities.2020.102809
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0264275119318529
+
 ---

@@ -19,5 +19,11 @@ featured: true
 tags:
 - Topic3
 
+doi: https://doi.org/10.3390/ijgi11120605
+links:
+- name: URL
+  url: https://www.mdpi.com/2220-9964/11/12/605
+
+
 
 ---

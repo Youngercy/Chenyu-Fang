@@ -11,4 +11,9 @@ publication_types:
 publication: '*Ecosystem Health and Sustainability*'
 #tags:
 featured: true
+doi: https://doi.org/10.1080/20964129.2018.1469960
+links:
+- name: URL
+  url: https://spj.science.org/doi/full/10.1080/20964129.2018.1469960
+
 ---
