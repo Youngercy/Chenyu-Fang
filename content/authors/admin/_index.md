@@ -22,27 +22,27 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-# Interests to show in About widget
-interests:
-  - Computational Science
-  - GeoAI
-  - Urban Informatics
-  - LLM
-  - Social Sensing
+# # Interests to show in About widget
+# interests:
+#   - Computational Science
+#   - GeoAI
+#   - Urban Informatics
+#   - LLM
+#   - Social Sensing
 
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Big Geospatial Data Management
-      institution: Technical University of Munich
-      year: 2021-2024(expected)
-    - course: Master in Natural Geography (Research in Urban Analysis)
-      institution: Peking University
-      year: 2018
-    - course: BSc in Remote Sensing & Photogrammetry
-      institution: Wuhan University
-      year: 2015
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Big Geospatial Data Management
+#       institution: Technical University of Munich
+#       year: 2021-2024(expected)
+#     - course: Master in Natural Geography (Research in Urban Analysis)
+#       institution: Peking University
+#       year: 2018
+#     - course: BSc in Remote Sensing & Photogrammetry
+#       institution: Wuhan University
+#       year: 2015
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
