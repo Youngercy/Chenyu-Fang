@@ -1,5 +1,5 @@
 ---
-title: "HDCBC: A Robust Clustering Algorithm for data with Noise, Heterogeneous Densities, and Weak Connectivity"
+title: "HDCBC: A Robust Clustering Algorithm for data with Noise, Heterogeneous Densities, and Weak Connectivity. (Under Review)"
 authors:
 - Fang, C.*
 - Zhou, L.

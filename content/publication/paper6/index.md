@@ -1,5 +1,5 @@
 ---
-title: "Valuing the carbon neutrality potential of the city itself: a study of greenspace at a city-block-scale in Xi’an, China."
+title: "Valuing the carbon neutrality potential of the city itself: a study of greenspace at a city-block-scale in Xi’an, China. (Under Review)"
 authors:
 - Feng, Y.
 - Fang, C.
