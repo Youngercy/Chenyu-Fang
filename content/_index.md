@@ -61,7 +61,7 @@ sections:
         [**Topic 2**](https://youngercy.github.io/Chenyu-Fang/tag/topic2/): Individual Behavior, Built Environment, and Sustainable Development.      
         [**Topic 3**](https://youngercy.github.io/Chenyu-Fang/tag/topic3/):  Technological and Methodological Advances in Geospatial Analysis.     
         Please click on the **icons** below to learn more.    
-          
+      
     design:
       columns: '2'
 
@@ -148,14 +148,14 @@ sections:
 
   
 
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ''
+  #     text: ''
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
     
 
       # Filter on criteria
@@ -165,7 +165,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: false
+        exclude_ab: true
         exclude_future: false
         exclude_past: false
         publication_type: ""

@@ -14,5 +14,9 @@ publication_types:
 publication: '*ISPRS International Journal of Geo-Information*'
 
 #tags:
-featured: true
+future: true
+tags:
+- Topic3
+
+
 ---
