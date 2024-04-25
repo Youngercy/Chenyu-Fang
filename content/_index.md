@@ -57,9 +57,9 @@ sections:
       title: Research 
       text: |-
         Following, you could find information about my current three topic of my research.   
-        **Topic 1**: Network-based Megaregion Research and Regional Planning.   
-        **Topic 2**: Individual Behavior, Built Environment, and Sustainable Development.      
-        **Topic 3**:  Technological and Methodological Advances in Geospatial Analysis.     
+        [**Topic 1**](https://youngercy.github.io/Chenyu-Fang/tag/topic1/): Network-based Megaregion Research and Regional Planning.   
+        [**Topic 2**](https://youngercy.github.io/Chenyu-Fang/tag/topic2/): Individual Behavior, Built Environment, and Sustainable Development.      
+        [**Topic 3**](https://youngercy.github.io/Chenyu-Fang/tag/topic3/):  Technological and Methodological Advances in Geospatial Analysis.     
         Please click on the **icons** below to learn more.    
           
     design:
