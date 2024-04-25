@@ -2,9 +2,9 @@
 title: PlanGPT(Co-Founder)
 
 summary: |-
-  a professional large language model(LLM) custom-built for urban planning, aiming to
-  **Specialize in Urban Planning Tasks:** Tailored for generating planning texts, information retrieval, and document evaluation specific to city planning.
-  **Boost Efficiency for Planners:** Designed to enhance the work efficiency of urban planning professionals by addressing their unique challenges.
+  a professional large language model(LLM) custom-built for urban planning, aiming to   
+  **Specialize in Urban Planning Tasks:** Tailored for generating planning texts, information retrieval, and document evaluation specific to city planning.   
+  **Boost Efficiency for Planners:** Designed to enhance the work efficiency of urban planning professionals by addressing their unique challenges.   
   **Leverage Industry Collaboration:** Developed in partnership with the China Urban Planning & Design, our co-planner project integrates industry-specific insights and technologies, culminating in a successful venture securing 600,000 RMB in funding.
 
 # tags:
