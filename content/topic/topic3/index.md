@@ -9,12 +9,12 @@ summary: |-
   My work in this area focuses on developing and applying novel geospatial analysis techniques to address challenges related to urban planning, emergency response, and sustainable development. By integrating advanced clustering algorithms, quasi-experimental designs, and big data analytics, I aim to provide deeper insights into how spatial data can be effectively utilized to inform policy and planning decisions. This includes exploring the dynamics of urban mobility, the robust clustering of spatial data, and the delineation of urban boundaries through data-driven approaches.
 
   **Research Method:**
-  - **Quasi-Experimental Design:** Employing quasi-experimental designs to analyze the impact of COVID-19 on travel behaviors among older adults in Shenzhen, utilizing big data from mobile phones to assess changes over time and across different urban densities and land uses.
 
   - **Advanced Clustering Techniques:** Utilizing innovative clustering algorithms like the Hierarchy Direction Centrality Based Clustering (HDCBC) to overcome challenges in spatial data characterized by noise, heterogeneous densities, and weak connectivity. This method enhances the robustness of spatial analyses, focusing on core points to minimize the effects of peripheral and noisy data.
 
   - **Data-Driven Urban Delineation:** Applying a combination of feature engineering and density-based clustering (DBSCAN) on Open Street Map data to define urban areas dynamically in Bavaria, Germany. This approach bypasses traditional limitations by adapting clustering parameters to reflect the actual morphological changes in urban environments.
 
+  - **Spatio-Temporal Cognitive Framework:** Employing a novel framework that integrates multiple spatio-temporal scales to analyze individual route choices during outdoor evacuations. This approach includes developing a spatio-temporal A* algorithm to optimize route planning based on individual cognitive processes and agent-based simulations.
  
 
   <font size = 30> <strong> Seleted Papers As Following: </strong> </font>

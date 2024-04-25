@@ -11,7 +11,7 @@ summary: |-
   **Research Method:**
   - **Data-Driven Analysis of Multimodal Transportation:** Utilizing mobile phone location data and bike-sharing trip records, I assess the effectiveness of multimodal transport systems in improving urban accessibility and sustainability. This method helps in understanding the role of bike-sharing in complementing public transit systems, particularly focusing on its efficiency and equity impacts.
 
-  - **Spatio-Temporal Cognitive Framework:** Employing a novel framework that integrates multiple spatio-temporal scales to analyze individual route choices during outdoor evacuations. This approach includes developing a spatio-temporal A* algorithm to optimize route planning based on individual cognitive processes and agent-based simulations.
+  - **Quasi-Experimental Design:** Employing quasi-experimental designs to analyze the impact of COVID-19 on travel behaviors among older adults in Shenzhen, utilizing big data from mobile phones to assess changes over time and across different urban densities and land uses.
 
   - **Sustainable Urban Land Use Analysis:** Applying modifications to traditional land intensive use evaluations to explore the temporal and spatial characteristics of urban land use and its sustainability factors. This includes using models like the DPCSIR framework and econometric methods to understand how land use influences economic, social, and environmental outcomes.
 
