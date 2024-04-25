@@ -60,7 +60,7 @@ sections:
         [**Topic 1**](https://youngercy.github.io/Chenyu-Fang/tag/topic1/): Network-based Megaregion Research and Regional Planning.   
         [**Topic 2**](https://youngercy.github.io/Chenyu-Fang/tag/topic2/): Individual Behavior, Built Environment, and Sustainable Development.      
         [**Topic 3**](https://youngercy.github.io/Chenyu-Fang/tag/topic3/):  Technological and Methodological Advances in Geospatial Analysis.     
-        Please click on the <font color= Blue> <font size = 30> icons </font></font> below to learn more.    
+        Please click on the <font color= #15665c> <font size = 20> icons </font></font> below to learn more.    
       
     design:
       columns: '2'
