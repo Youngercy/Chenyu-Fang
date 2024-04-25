@@ -1,17 +1,17 @@
 ---
-title: "Quasi-experimental analysis of COVID-19 impacts on older adults’ travel behavior: Implications for age-friendly neighborhood planning."
+title: "Quasi-experimental analysis of COVID-19 impacts on older adults’ travel behavior: Implications for age-friendly neighborhood planning.(Under Second-Round Review)"
 authors:
 - Zhang, W.
 - Li., Y.
 - Zhou, L.
-- Fang, C.
+- Fang, C.*
 #author_notes:
 #- "Equal contribution"
 #date: "2015-09-01T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-03-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

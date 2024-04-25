@@ -1,5 +1,5 @@
 ---
-title: "Associations between online and offline shopping and travel behaviors before and after the outbreak of COVID-19."
+title: "Associations between online and offline shopping and travel behaviors before and after the outbreak of COVID-19.(Under Second-Round Review)"
 authors:
 - Zhang, W.
 - Geng, Y.
@@ -11,6 +11,7 @@ authors:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""
+publishDate: "2024-03-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
