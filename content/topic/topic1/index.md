@@ -11,9 +11,9 @@ summary: |-
   **Research Method:**
   - Complex Network Analysis: This approach utilizes mobile phone signal data to analyze the connectivity and network structures within megaregions, quantifying inter-regional interactions to understand regional cohesion and socio-economic diffusion. Techniques include the Weighted Stochastic Block Model (WSBM), which deciphers community structures and enhances understanding of spatial configurations, and Overlapping Community Detection based on Density Peaks (OCDDP), which identifies overlapping communities within commuting networks, revealing the intricate roles and interactions of urban nodes.
 
-  - Webometrics and Big Data Analysis: used to explore inter-city/village relationships and measure city/village impacts within megaregions, providing a foundation for targeted rural revitalization and integration strategies.
+  - Webometrics and Big Data Analysis: Techniques utilized to extract historical, cultural, and industrial topics from multi-source texts, establishing internal connections through similarities to offer constructive suggestions for rural spatial restructuring and revitalization.
 
-  **Seleted Papers As Following:**
+  ##Seleted Papers As Following:
 
 tags:
   - Topic1
