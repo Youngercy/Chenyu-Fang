@@ -12,7 +12,7 @@ superuser: true
 highlight_name: true
 
 # 改成研究兴趣
-role: Ph.D from Chair of Geosptial Data Management
+role: Ph.D in Big Geospatial Data Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
