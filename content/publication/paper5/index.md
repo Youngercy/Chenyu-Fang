@@ -22,7 +22,7 @@ publication_types: ["article"]
 publication: "Submission to *International Journal of Geographical Information Science* **(Under Review)**"
 publication_short: ""
 
-#abstract:
+abstract:This study introduces the Hierarchy Direction Centrality Based Clustering (HDCBC), a novel algorithm that integrates core point identiﬁcation and hierarchical clustering to address challenges of weak connectivity and heterogeneous density in spatial data analysis. HDCBC utilizes a Gaussian Mixture Model (GMM) for isolating edge points and noise, ensuring stability even under weak connectivity and heterogeneous densities. A unique feature of HDCBC is the Directional Connectivity Measure (DCM), which distinguishes internal from peripheral points, focusing on internal points to minimize the impact of weak connections, unlike conventional CDC methods that emphasize boundary creation. This approach is complemented by the use of k-nearest neighbors (KNNs) to mitigate the eﬀects of varying densities. HDCBC’s eﬀectiveness was validated against baseline methods across 16 synthetic datasets, including noise-enhanced versions, and further applied to ﬁve real-world datasets to demonstrate its adaptability in handling high-dimensional data. This paper details HDCBC’s operational aspects, presents comparative analyses, discusses hyperparameter inﬂuences, and explores future applications and limitations. The ﬁndings oﬀer signiﬁcant contributions to spatial data analysis, highlighting HDCBC’s robustness in noise management and its potential in various applications.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

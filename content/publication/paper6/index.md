@@ -26,7 +26,7 @@ publication_types: ["article"]
 publication: "Submission to *Environmental Research* **(Under Review)**"
 publication_short: ""
 
-abstract: 
+abstract: As the most important near-natural ecological space in urban areas, urban greenspace has both direct carbon sequestration and indirect carbon reduction function through heat mitigation. However, most studies had focused on carbon sequestration, but the carbon emission reduction had received limited attention. Here, both above and their combined carbon neutral capacity of urban greenspace at a city-block-scale are estimated and their landscape drivers were discovered in Xi'an city between 2000 and 2020. Our results showed that the carbon neutral ability increased from 4.35 t ha-1 yr-1 in 2000-2005 to 5.15 t ha-1 yr-1 in 2015-2020, with an average annual growth of 0.04 t ha-1 yr-1. The indirect carbon reduction benefit of urban greenspace was much higher than the direct carbon sequestration. From 2000 to 2020, the carbon emission reduction reached to 4.64 t ha-1 yr-1, but the carbon storage decreased from 15.12 t ha-1 to 14.19 t ha-1. The carbon sequestration changes were more sensitive to landscape patterns than carbon emission reduction and varied across time periods. What’s more, we could reduce the complexity of built area edges, increase the permeability of urban greenspace, and establish urban-rural transition zones to improve the carbon neutral ability of urban greenspace. This article provides theoretical support for assessing the role of urban greenspace in carbon offsetting and its significance in urban planning.
 
 # Summary. An optional shortened abstract.
 summary: 

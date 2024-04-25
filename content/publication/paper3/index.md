@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 publication: "Submission to *Journal of Planning Education and Research* **(Under Second-Round Review)**"
 publication_short: ""
 
-#abstract: 
+abstract: Using two-month secular cellphone big data of individuals in Shenzhen, China, we adopt an interrupted time-series quasi-experimental design to causally infer the changes in older adults’ travel distance by COVID-19 in neighborhoods with varying built environments. Results show that policies are less effective for older adults, with a smaller abrupt decrease in the daily travel but a slower decay rate. Treatment effects of such policies are socially and spatially heterogenous, larger in neighborhoods with high population densities and land use diversity at the suburban layouts. These findings provide hints for planning adaptive age-friendly neighborhoods.
 
 # Summary. An optional shortened abstract.
 #summary: 
