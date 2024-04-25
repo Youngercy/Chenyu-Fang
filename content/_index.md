@@ -82,7 +82,7 @@ sections:
         - title: PhD in Chair of Big Geospatial Data Management
           company: Technical University of Munich
           company_url: ''
-          company_logo: Cambridge
+          company_logo: TUM
           location: Munich
           date_start: '2021-03-15'
           date_end: '2024-09-15'
@@ -102,7 +102,7 @@ sections:
         - title: Master in Natural Geography (Research in Urban Analysis)
           company: Peking University
           company_url: ''
-          company_logo: Cambridge
+          company_logo: Peking
           location: Beijing
           date_start: '2015-09-15'
           date_end: '2018-07-15'
@@ -111,7 +111,7 @@ sections:
         - title: BSc in Remote Sensing & Photogrammetry
           company: Wuhan University
           company_url: ''
-          company_logo: Cambridge
+          company_logo: Wuhan
           location: wuhan
           date_start: '2011-09-15'
           date_end: '2015-07-15'
