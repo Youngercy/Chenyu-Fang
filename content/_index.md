@@ -249,7 +249,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" width="800" height="auto" >}}
+        {{< gallery album="demo" width="auto" height="auto" >}}
     design:
       columns: '1'
 
