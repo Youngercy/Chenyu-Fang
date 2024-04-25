@@ -12,4 +12,7 @@ publishDate: '2024-04-21T21:10:57.293493Z'
 publication_types:
 - article-journal
 publication: '*ISPRS International Journal of Geo-Information*'
+
+#tags:
+featured: true
 ---
