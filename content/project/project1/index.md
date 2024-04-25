@@ -1,10 +1,12 @@
 ---
-title: Digital Bay Area Platform Construction (Participant)
-text: |-
-    **Individual Behavior, Built Environment, and Sustainable Development**
-    - Research Question:
-    This research investigates how individual behaviors interact with the built environment to influence sustainable development. The key questions addressed are: How do various elements of the built environment, such as multimodal transport systems and urban land use, impact individual daily activities? Additionally, how can urban planning and design enhance sustainability by influencing these behaviors?
-summary: Digital Bay Area Platform for the China Academy of Urban Planning and Design, focusing on the digital planning and visualization of the Greater Bay Area. This platform offers real-time, dynamic planning support to urban planners.
+title: [PlanGPT](https://arxiv.org/abs/2402.19273) (Co-Founder)
+
+summary: |-
+  a professional large language model(LLM) custom-built for urban planning https://arxiv.org/abs/2402.19273), aiming to
+  **Specialize in Urban Planning Tasks:** Tailored for generating planning texts, information retrieval, and document evaluation specific to city planning.
+  **Boost Efficiency for Planners:** Designed to enhance the work efficiency of urban planning professionals by addressing their unique challenges.
+  **Leverage Industry Collaboration:** Developed in partnership with the China Urban Planning & Design, our co-planner project integrates industry-specific insights and technologies, culminating in a successful venture securing 600,000 RMB in funding.
+
 # tags:
 #   - Topic 4
 date: '2016-04-27T00:00:00Z'
