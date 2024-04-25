@@ -97,7 +97,18 @@ sections:
           date_end: '2023-11-15'
           description: Join the [Lab of Interdisciplinary Spatial Analysis](https://www.landecon.cam.ac.uk/lab-interdisciplinary-spatial-analysis) and get supervision from [Prof. Elisabete A Silva](https://www.landecon.cam.ac.uk/directory/esilva).
 
-
+        - title: Data Analyst & Urban Planner
+          company: China Academic Urban Planning & Design
+          company_url: 'https://www.caupd.com/en/index'
+          company_logo: caupd
+          location: Shenzhen
+          date_start: '2018-07-01'
+          date_end: '2021-01-01'
+          description: |-
+            Responsibilities include:
+              * Digital Bay Area Platform Construction
+              * Guangdong Province's Inaugural Territorial Space Planning
+              * Data Analysis
 
         - title: Master in Natural Geography (Research in Urban Analysis)
           company: Peking University
@@ -119,19 +130,7 @@ sections:
          
 
 
-        - title: Data Analyst & Urban Planner
-          company: China Academic Urban Planning & Design
-          company_url: 'https://www.caupd.com/en/index'
-          company_logo: caupd
-          location: Shenzhen
-          date_start: '2018-07-01'
-          date_end: '2021-01-01'
-          description: |2-
-              Responsibilities include:
-
-              * Digital Bay Area Platform Construction
-              * Guangdong Province's Inaugural Territorial Space Planning
-              * Data Analysis
+        
         
     design:
       columns: '2'
