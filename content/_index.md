@@ -257,6 +257,7 @@ sections:
   - block: collection
     id: featured
     content:
+      count: 8
       title: Peer Reviewed Papers
       filters:
         folders:
